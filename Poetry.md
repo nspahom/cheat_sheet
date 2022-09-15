@@ -1,4 +1,4 @@
-<h1 align="center"> POETRY UNIX
+<h1 align="center"> Poetry
 
 
 <h2 align="center"> Установка </h2>
