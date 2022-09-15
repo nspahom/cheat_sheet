@@ -47,5 +47,17 @@
         legacy/,
         vendor/
 
+**Мой базовый конфигурационный файл**
+
+    [flake8]
+    ignore = 
+        # Line break occurred before a binary
+        W503,
+        # Missing Docstrings
+        D10
+    max-complexity = 10
+    max-line-length = 79
+
+<br>
 
 [Официальная документация Flake8](https://flake8.pycqa.org/en/latest/)
