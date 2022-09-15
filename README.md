@@ -13,6 +13,6 @@
 
 **[Flake8 достанет кого угодно](https://github.com/nspahom/cheat_sheet/blob/main/Flake8.md)**
 
-**[VS Code великий и ужасный](https://github.com/nspahom/cheat_sheet/blob/main/VSCode.md))**
+**[VS Code великий и ужасный](https://github.com/nspahom/cheat_sheet/blob/main/VSCode.md)**
 
 **[GIT, если вдруг забыл](https://github.com/nspahom/cheat_sheet/blob/main/GIT.md)**
