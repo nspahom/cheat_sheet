@@ -8,21 +8,20 @@
 
 **Настроить имя пользователя и e-mail**
 
-    git config --global user.name "Стас Басов"
-    git config --global user.email "stas.basov@whatever.com"
+    git config --global user.name "Qui-Gon Jinn"
+    git config --global user.email "qgj@empire.net"
 
 <br>
 
 **Клонрование репозитория**
 
-    git clone git@github.com:ваш-аккаунт-на-гитхабе/backend_test_homework.git 
+    git clone git@github.com:nspahom/cheat_sheet.git 
 
 <br>
 
-**Добавление файлов**
+**Добавление одного файла**
 
-    # добавили файл "program.py"
-    git add program.py
+    git add main.py
 
 **Добавить все файлы**
 
@@ -47,6 +46,10 @@
     
     git push
 
+**Пулл**
+    
+    git pull
+
 <br>
 
 **Просмотр истории коммитов**
@@ -59,7 +62,7 @@
 
 **Просмотр изменений в указанном коммите**
 
-    git show c952d96
+    git show a123456
 
 <br>
 
@@ -69,8 +72,8 @@
 
 **Откат изменения конкретного файла до предыдушего коммита**
 
-    git reset HEAD program.py
+    git reset HEAD main.py
 
 **Откат до указанного коммита**
     
-    git reset 97a25f7 
+    git reset a123456
