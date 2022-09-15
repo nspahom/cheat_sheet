@@ -59,11 +59,11 @@
 
     poetry add -D flake8-walrus 
 
-**Если django-проеĸт**
+**Если django-проект**
 
     poetry add -D flake8-django
 
-**Если fastapi-проеĸт**
+**Если fastapi-проект**
 
     poetry add -D flake8-fastapi
 																						
