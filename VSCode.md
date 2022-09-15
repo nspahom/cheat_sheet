@@ -49,5 +49,6 @@
         }
     }
 
+<br>
 
-[Документация по VS Code тут](https://code.visualstudio.com/docs)
+[Официальная документация VS Code](https://code.visualstudio.com/docs)

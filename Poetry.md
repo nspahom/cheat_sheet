@@ -144,4 +144,4 @@
 
 <br>
 
- [Документация Poetry](https://python-poetry.org/docs)
+ [Официальная документация Poetry](https://python-poetry.org/docs)
